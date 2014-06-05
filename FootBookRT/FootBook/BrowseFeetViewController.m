@@ -38,11 +38,7 @@
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"Cell"];
     cell.textLabel.text = person.name;
     
-    if (person.isFriend)
-    {
-        cell.backgroundColor = [UIColor colorWithRed:197/255.0f green:247/255.0f blue:128/255.0f alpha:0.2f];
-    }
-    return cell;
+        return cell;
 }
 
 -(void)load

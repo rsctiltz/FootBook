@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>13AA42C2-DC2B-45E6-A6E5-C006138BC760</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FootBookRT</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7968B82B-7E46-485F-A9E6-A643651F82B5</key>
+		<string>https://github.com/rsctiltz/FootBook.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FootBookRT/FootBookRT.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7968B82B-7E46-485F-A9E6-A643651F82B5</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/rsctiltz/FootBook.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7968B82B-7E46-485F-A9E6-A643651F82B5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7968B82B-7E46-485F-A9E6-A643651F82B5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FootBook</string>
+		</dict>
+	</array>
+</dict>
+</plist>
